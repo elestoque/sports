@@ -1,4 +1,4 @@
 RewriteEngine on
-RewriteCond %{REQUEST_URI} !^/bttb/bttb.html$
+RewriteCond %{REQUEST_URI} !^/paralympics/paralympics.html$
 RewriteCond %{REQUEST_URI} !\.(gif|jpe?g|png|css|js)$
-RewriteRule .* /bttb/bttb.html [L,R=302]
+RewriteRule .* /paralympics/paralympics.html [L,R=302]
