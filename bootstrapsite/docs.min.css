@@ -321,9 +321,9 @@ h4 code {
 .bs-docs-booticon-lg {
     width: 144px;
     height: 144px;
-    font-size: 108px;
+    font-size: 80px;
     line-height: 140px
-    font-family: 'Lora', serif;
+    
 }
 
 .bs-docs-booticon-inverse {
@@ -668,6 +668,7 @@ h4 code {
     font-size: 30px;
     font-weight: 400;
     color: #333
+    font-family: "Roboto";
 }
 
 .half-rule {
